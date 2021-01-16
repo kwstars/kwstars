@@ -1,7 +1,7 @@
 
 <a href="https://github.com/appleboy">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kwstars&show_icons=true&theme=merko&count_private=true" alt="Kira's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwstars&theme=merko&layout=compact" alt="Kira's github top languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kwstars&show_icons=true&theme=merko&count_private=true" alt="Kira's github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwstars&theme=merko&layout=compact" alt="Kira's github top languages" />
 </a>
 <br/>
 
