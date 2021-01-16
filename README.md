@@ -1,4 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kwstars&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+<a href="https://github.com/appleboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwstars&show_icons=true&theme=merko&count_private=true" alt="Kira's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwstars&theme=merko&layout=compact" alt="Kira's github top languages" />
+</a>
+<br/>
+
 
 <!--
 **kwstars/kwstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=kwstars&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
