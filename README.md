@@ -28,6 +28,17 @@
 ### ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 July 2024 - To: 08 July 2024
+
+JavaScript   7 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   32.86 %
+Vue.js       4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+HTML         4 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+Markdown     3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+JSON         2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
