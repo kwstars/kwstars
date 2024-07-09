@@ -29,6 +29,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
+From: 01 July 2024 - To: 08 July 2024
+
 JavaScript   7 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   32.86 %
 Vue.js       4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
 HTML         4 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
