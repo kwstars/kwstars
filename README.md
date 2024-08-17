@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Other                      10 hrs 25 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-Markdown                   2 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JSON                       1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Go                         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other                      5 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Markdown                   2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Go                         2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JSON                       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
