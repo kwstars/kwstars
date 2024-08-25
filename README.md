@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Go                19 hrs 45 mins  ████████████░░░░░░░░░░░░░   48.01 %
-YAML              9 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-Protocol Buffer   3 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Makefile          3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-JSON              1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Go                28 hrs 8 mins   ██████████████▒░░░░░░░░░░   56.71 %
+YAML              9 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Protocol Buffer   3 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Makefile          3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON              1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
