@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 30 September 2024
+From: 24 September 2024 - To: 01 October 2024
 
-JavaScript         24 hrs 24 mins  ███████████▓░░░░░░░░░░░░░   46.60 %
-Go                 14 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.80 %
-Markdown           3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Other              2 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML               1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JavaScript         24 hrs 24 mins  █████████████▒░░░░░░░░░░░   53.49 %
+Go                 8 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Markdown           3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Other              2 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+YAML               1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
