@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Go           11 hrs 33 mins  ██████████████████████▒░░   89.21 %
-Markdown     54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Go           9 hrs 39 mins   ██████████████████████░░░   88.27 %
+Markdown     47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
