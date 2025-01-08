@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Go                37 hrs 26 mins  ████████████████████████▒   97.86 %
-Markdown          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Batchfile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                36 hrs 53 mins  ████████████████████████▒   97.39 %
+Markdown          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Makefile          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
