@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Go                40 hrs 47 mins  ████████████████████████▒   97.10 %
-Markdown          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Protocol Buffer   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go                41 hrs 10 mins  ████████████████████████░   96.27 %
+Protocol Buffer   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Markdown          16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Makefile          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
