@@ -48,12 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2025 - To: 18 January 2025
+From: 12 January 2025 - To: 19 January 2025
 
-Go                         8 hrs 47 mins   ████████████████▓░░░░░░░░   67.13 %
-Markdown                   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-INI                        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Protocol Buffer            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Go                8 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.85 %
+Protocol Buffer   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+INI               42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
