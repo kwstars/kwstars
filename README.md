@@ -48,11 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Go                8 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.85 %
-Protocol Buffer   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-INI               42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Go                9 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.63 %
+TypeScript        1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Vue.js            1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Protocol Buffer   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
