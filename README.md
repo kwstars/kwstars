@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-Go                6 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Makefile          2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Vue.js            1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-TypeScript        1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Go                5 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
+Makefile          2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Vue.js            2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+TypeScript        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
