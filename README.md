@@ -48,13 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Go           4 hrs 39 mins   █████████████▓░░░░░░░░░░░   55.12 %
-Markdown     3 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   36.80 %
-TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Vue.js       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go           4 hrs 39 mins   ███████████████░░░░░░░░░░   59.34 %
+Markdown     3 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   39.61 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
