@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-Markdown     1 hr 23 mins    ███████████████████▒░░░░░   77.03 %
-Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Go           8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Markdown     1 hr 23 mins    ███████████████████▒░░░░░   76.96 %
+Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Go           8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
