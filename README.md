@@ -48,12 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Markdown     1 hr 23 mins    ███████████████████▒░░░░░   76.96 %
-Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Go           8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown     2 hrs 12 mins   ████████████████░░░░░░░░░   63.46 %
+TypeScript   34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Git Config   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Go           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
