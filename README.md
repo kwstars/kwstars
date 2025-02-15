@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
-Python       14 hrs 25 mins  ████████████░░░░░░░░░░░░░   47.44 %
-Go           7 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Markdown     2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-TypeScript   59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Python            16 hrs 1 min    ██████████▒░░░░░░░░░░░░░░   41.40 %
+Go                11 hrs 33 mins  ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+Markdown          2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript        59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
