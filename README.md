@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Go                14 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   34.98 %
-Python            13 hrs 51 mins  ████████▓░░░░░░░░░░░░░░░░   34.55 %
-Other             2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Protocol Buffer   1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Python            13 hrs 41 mins  █████████░░░░░░░░░░░░░░░░   36.28 %
+Go                7 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+Other             2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Protocol Buffer   1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
