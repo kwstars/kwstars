@@ -48,13 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Go                2 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.68 %
-HTML              1 hr 56 mins    ████████▓░░░░░░░░░░░░░░░░   34.91 %
-Vue.js            39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Protocol Buffer   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-TypeScript        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Go                2 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.61 %
+CSV               1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Python            50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+HTML              31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
