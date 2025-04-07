@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
-Markdown                           2 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-C#                                 2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Go                                 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Unity3D Asset                      39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+C#                                 6 hrs 19 mins   ███████████░░░░░░░░░░░░░░   44.55 %
+Markdown                           2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+Unity3D Asset                      1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Other                              48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 ```
 
 <!--END_SECTION:waka-->
