@@ -48,10 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2025 - To: 02 May 2025
+From: 26 April 2025 - To: 03 May 2025
 
-Markdown           2 hrs 14 mins   ███████████████████████▒░   93.73 %
-SRecode Template   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Markdown           1 hr 32 mins    ██████████████████████▓░░   91.17 %
+SRecode Template   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
