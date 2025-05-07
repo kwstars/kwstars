@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-Markdown           4 hrs 30 mins   ██████████████████▓░░░░░░   75.07 %
-Python             47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Bash               22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Batchfile          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-SRecode Template   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown    4 hrs 25 mins   ███████████████████░░░░░░   76.64 %
+Python      47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Bash        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Batchfile   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+INI         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
