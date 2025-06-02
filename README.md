@@ -48,11 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Markdown   4 hrs 50 mins   ████████████████████████░   96.21 %
-Lua        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   4 hrs 46 mins   ████████████████████████░   96.16 %
+Lua        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
