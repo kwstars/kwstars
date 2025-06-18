@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Go                         39 hrs 59 mins  ██████████████████████▒░░   88.82 %
-Other                      53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown                   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Go                         40 hrs 15 mins  ██████████████████████░░░   87.95 %
+Other                      1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown                   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
