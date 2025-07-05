@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2025 - To: 03 July 2025
+From: 27 June 2025 - To: 04 July 2025
 
-Go                33 hrs 17 mins  █████████████████████▓░░░   86.12 %
-Other             1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Protocol Buffer   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Makefile          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Go                30 hrs 9 mins   █████████████████████░░░░   83.92 %
+Other             1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Protocol Buffer   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Makefile          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
