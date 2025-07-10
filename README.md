@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Go                27 hrs 54 mins  ████████████████████▓░░░░   83.01 %
-Other             1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Makefile          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Go                24 hrs 5 mins   ███████████████████▒░░░░░   77.32 %
+Other             3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Markdown          32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
