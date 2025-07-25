@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2025 - To: 23 July 2025
+From: 17 July 2025 - To: 24 July 2025
 
-Go                46 hrs 43 mins  ████████████████████████░   95.80 %
-Markdown          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go                41 hrs 26 mins  ███████████████████████▒░   93.73 %
+Markdown          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
