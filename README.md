@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Go                39 hrs 47 mins  ███████████████████████░░   91.96 %
-Protocol Buffer   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Markdown          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Go                39 hrs 17 mins  ███████████████████████░░   92.21 %
+Protocol Buffer   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+C#                10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
