@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
-Go                36 hrs 26 mins  ███████████████████████▒░   93.56 %
-Protocol Buffer   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Other             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Go                34 hrs 25 mins  ███████████████████████▒░   93.32 %
+Protocol Buffer   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
