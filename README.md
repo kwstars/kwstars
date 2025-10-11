@@ -48,12 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Go                5 hrs 27 mins   ███████████████████████▒░   92.98 %
-Protocol Buffer   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-PHP               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Go                11 hrs 26 mins  ██████████████████████▒░░   88.74 %
+Protocol Buffer   1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+PHP               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Vim Script        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
