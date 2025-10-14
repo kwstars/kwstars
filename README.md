@@ -48,13 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 12 October 2025
+From: 06 October 2025 - To: 13 October 2025
 
-Go                18 hrs 16 mins  ██████████████████████░░░   88.64 %
-Protocol Buffer   1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Markdown          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-PHP               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Go                   21 hrs 30 mins  █████████████████████░░░░   84.07 %
+Protocol Buffer      1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+C#                   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Markdown             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
