@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-Go                   32 hrs 17 mins  ██████████████████████▓░░   91.23 %
-Protocol Buffer      1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Bash                 51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Other                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Docker               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Go                   36 hrs 49 mins  ██████████████████████▒░░   89.72 %
+Protocol Buffer      2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Bash                 23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other                16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Markdown             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
