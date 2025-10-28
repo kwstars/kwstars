@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Go                26 hrs 19 mins  █████████████████████▒░░░   85.75 %
-Protocol Buffer   3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Markdown          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Makefile          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Lua               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Go                   25 hrs 23 mins  ███████████████████▓░░░░░   78.63 %
+Protocol Buffer      4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+Markdown             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Makefile             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
