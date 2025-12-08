@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
-Go                 17 hrs 19 mins  ████████████████▒░░░░░░░░   65.68 %
-Markdown           4 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-SRecode Template   2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Terraform          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Go                 10 hrs 2 mins   ██████████████░░░░░░░░░░░   56.48 %
+Markdown           4 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+SRecode Template   2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Terraform          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
