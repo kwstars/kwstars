@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Go                   6 hrs           ███████████████▓░░░░░░░░░   62.07 %
-Markdown             1 hr 52 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-SRecode Template     1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Protocol Buffer      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JSONLD               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Go                   7 hrs 29 mins   ███████████████████▒░░░░░   76.79 %
+SRecode Template     53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Protocol Buffer      22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Markdown             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
