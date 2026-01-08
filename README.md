@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Go                21 hrs 17 mins  ██████████████████▒░░░░░░   73.47 %
-Protocol Buffer   5 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-Markdown          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-CSV               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Python            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go                21 hrs 51 mins  ████████████████████░░░░░   80.30 %
+Protocol Buffer   3 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Markdown          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+CSV               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
