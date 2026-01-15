@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Go                36 hrs 18 mins  ███████████████████░░░░░░   75.98 %
-Protocol Buffer   6 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Markdown          1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Caddyfile         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Go                32 hrs 5 mins   ███████████████████░░░░░░   76.00 %
+Protocol Buffer   4 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Markdown          2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Caddyfile         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
