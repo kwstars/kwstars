@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-Go                 7 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.70 %
-SRecode Template   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-CSV                22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Markdown           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Go                 9 hrs 1 min     ███████████████████░░░░░░   75.77 %
+Other              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Markdown           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+SRecode Template   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
