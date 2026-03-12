@@ -48,13 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2026 - To: 10 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-Go                34 hrs 36 mins        ███████████████████▒░░░░░   77.44 %
-Protocol Buffer   5 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Markdown          3 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Bash              24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other             14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Go                31 hrs 11 mins        ████████████████████▓░░░░   83.18 %
+Markdown          2 hrs 42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Protocol Buffer   2 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Bash              16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
