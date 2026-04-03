@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 01 April 2026
+From: 26 March 2026 - To: 02 April 2026
 
-Markdown             11 hrs 27 mins        ████████████████░░░░░░░░░   64.61 %
-Go                   1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-SRecode Template     1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Makefile             56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Markdown             10 hrs 40 mins        ████████████████░░░░░░░░░   63.89 %
+Go                   1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+SRecode Template     1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Makefile             56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
