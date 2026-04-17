@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Markdown           5 hrs 17 mins         ███████████████░░░░░░░░░░   59.41 %
-C#                 1 hr 20 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-WebVTT             1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-SRecode Template   30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Git Config         15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown           6 hrs 19 mins         ███████████████░░░░░░░░░░   60.40 %
+C#                 1 hr 20 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+WebVTT             1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+SRecode Template   34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Other              28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
