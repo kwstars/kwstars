@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Markdown           6 hrs 19 mins         ███████████████░░░░░░░░░░   60.40 %
-C#                 1 hr 20 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-WebVTT             1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-SRecode Template   34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Other              28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Markdown           5 hrs 51 mins         ███████████████▒░░░░░░░░░   61.21 %
+C#                 1 hr 20 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+WebVTT             1 hr 8 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Other              47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Unity3D Asset      7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
