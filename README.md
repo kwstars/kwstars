@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Markdown           5 hrs 39 mins         █████████████████░░░░░░░░   67.78 %
-Go                 1 hr 17 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Other              1 hr 1 min            ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-WebVTT             15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-SRecode Template   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Markdown           6 hrs 17 mins         ████████████████▒░░░░░░░░   65.13 %
+Go                 2 hrs 8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Other              1 hr 6 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+SRecode Template   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Protocol Buffer    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
