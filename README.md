@@ -48,13 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Markdown          5 hrs 46 mins         █████████████▓░░░░░░░░░░░   54.45 %
-Go                3 hrs 50 mins         █████████░░░░░░░░░░░░░░░░   36.24 %
-Other             55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Protocol Buffer   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Git Config        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown          5 hrs 26 mins         █████████████▓░░░░░░░░░░░   54.66 %
+Go                3 hrs 50 mins         █████████▓░░░░░░░░░░░░░░░   38.60 %
+Other             37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Protocol Buffer   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Git Config        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
