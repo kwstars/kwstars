@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 01 May 2026
+From: 25 April 2026 - To: 02 May 2026
 
-Markdown           7 hrs 58 mins         ██████████████▓░░░░░░░░░░   58.68 %
-Other              1 hr 21 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Terraform          35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown           6 hrs 44 mins         ██████████████░░░░░░░░░░░   56.52 %
+Other              1 hr 21 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Terraform          35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
