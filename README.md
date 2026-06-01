@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2026 - To: 29 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-Go                24 hrs 35 mins        █████████▓░░░░░░░░░░░░░░░   38.52 %
-Markdown          22 hrs 57 mins        █████████░░░░░░░░░░░░░░░░   35.97 %
-Protocol Buffer   2 hrs 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Markdown          23 hrs 43 mins        ██████████▒░░░░░░░░░░░░░░   41.32 %
+Go                21 hrs 48 mins        █████████▒░░░░░░░░░░░░░░░   37.98 %
+Protocol Buffer   2 hrs 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
