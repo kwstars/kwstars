@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2026 - To: 11 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
-Go                4 hrs 5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.85 %
-Markdown          3 hrs 44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
-Groovy            1 hr 15 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Other             45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Go                4 hrs 3 mins          ██████████████░░░░░░░░░░░   56.61 %
+Markdown          1 hr 24 mins          █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Protocol Buffer   28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Bash              16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
