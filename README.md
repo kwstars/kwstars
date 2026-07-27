@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Markdown             9 hrs 4 mins          ████████░░░░░░░░░░░░░░░░░   32.40 %
-Go                   1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Bash                 1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Makefile             1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown             15 hrs 54 mins        █████████▓░░░░░░░░░░░░░░░   38.56 %
+Go                   5 hrs 47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Bash                 2 hrs 4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Makefile             1 hr 22 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
