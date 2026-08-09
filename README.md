@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Go                         26 hrs 11 mins        ██████████░░░░░░░░░░░░░░░   40.42 %
-Markdown                   24 hrs 18 mins        █████████▒░░░░░░░░░░░░░░░   37.52 %
-TypeScript                 2 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Protocol Buffer            2 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Markdown                   29 hrs 32 mins        ██████████▒░░░░░░░░░░░░░░   41.65 %
+Go                         25 hrs 54 mins        █████████░░░░░░░░░░░░░░░░   36.53 %
+Other                      2 hrs 35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+TypeScript                 2 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
