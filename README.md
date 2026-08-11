@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Markdown                   35 hrs 56 mins        ████████████▓░░░░░░░░░░░░   50.21 %
-Go                         22 hrs 3 mins         ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Other                      2 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Markdown                   40 hrs 38 mins        ██████████████▒░░░░░░░░░░   56.82 %
+Go                         18 hrs 28 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Other                      2 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 Protocol Buffer            2 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
