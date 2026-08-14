@@ -48,12 +48,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Markdown          39 hrs 44 mins        ████████████████▒░░░░░░░░   65.75 %
-Go                10 hrs 14 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Other             2 hrs 50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-TypeScript        1 hr 16 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown           40 hrs 45 mins        █████████████████▒░░░░░░░   69.84 %
+Go                 5 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Other              3 hrs 44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+C#                 1 hr 38 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript         1 hr 4 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
