@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Markdown           29 hrs 21 mins        ██████████████████▓░░░░░░   74.50 %
-C#                 3 hrs 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Other              2 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Text               49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown           31 hrs 48 mins        ███████████████████░░░░░░   75.58 %
+C#                 3 hrs 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other              2 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Text               49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
