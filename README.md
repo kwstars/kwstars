@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
-Markdown        36 hrs 9 mins         ████████████████▓░░░░░░░░   66.70 %
-Other           2 hrs 58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Git Config      48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown        34 hrs 26 mins        ████████████████▒░░░░░░░░   64.69 %
+Other           3 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Git Config      48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
