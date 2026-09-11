@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Markdown   13 hrs 45 mins        ███████████████████████▒░   93.54 %
-Python     18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Other      16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Markdown   17 hrs 33 mins        ███████████████████████▓░   94.95 %
+Python     18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Other      15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
