@@ -48,10 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Markdown   15 hrs 30 mins        ████████████████████████░   95.55 %
-Other      43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Markdown   13 hrs 51 mins        ███████████████████████▓░   94.22 %
+Other      50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
