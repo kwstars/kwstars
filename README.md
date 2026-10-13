@@ -48,13 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-Markdown   35 hrs 45 mins        ████████████████████████▓   98.98 %
-Text       9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Python     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown   33 hrs 58 mins        ████████████████████████▓   98.43 %
+Text       11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python     8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Diff       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
