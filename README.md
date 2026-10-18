@@ -48,12 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-Markdown   24 hrs 43 mins        ██████████████████████▒░░   89.18 %
-Other      1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Python     49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Text       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown   21 hrs 3 mins         ██████████████████████░░░   87.45 %
+Other      1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Python     49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Text       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
